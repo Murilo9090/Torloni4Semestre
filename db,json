@@ -1,0 +1,8 @@
+{
+    "taskpoint": [
+    { "id": 1, "descricao": "Estudar propriedades em React" },
+    { "id": 2, "descricao": "Estudar componentes em React" },
+    { "id": 3, "descricao": "Estudar estado em React" },
+    { "id": 4, "descricao": "Estudar eventos em React" }
+    ]
+}
